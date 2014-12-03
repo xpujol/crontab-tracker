@@ -1,0 +1,4 @@
+#m	h	dom	mon	dow	command
+0	*	*	*	*	/var/spool/cron/crontab-tracker.sh > /var/spool/cron/crontab-tracker.log 2>&1
+#Add your root user cron tasks here
+
